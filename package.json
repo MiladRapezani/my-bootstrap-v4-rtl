@@ -1,11 +1,8 @@
 {
   "name": "my-bootstrap-v4-rtl",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "directories": {
-    "example": "examples"
-  },
+  "description": "bootstrap 4 right to left",
+  "keywords": ["bootstrap", "bootstrap4", "bootstrap-rtl", "right-to-left"],
   "scripts": {
     "build": "minify --output ./bootstrap-rtl.min.css ./bootstrap-rtl.css"
   },
